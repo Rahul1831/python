@@ -12,4 +12,3 @@ while num>0:
     
 print(j)
 
-print(eval(input("Enter expression (e.g., 2+3*4): ")))
